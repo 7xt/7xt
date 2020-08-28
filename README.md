@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-**od2/od2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎵 Status envi, ngomong cryptocurrency, hyping dikit langsung antisipasi, ngefork github cuma ngejar label kontribusi, gak peduli sama lingkungan kanan kiri, kesenggol dikit didunia nyata nyinyir dimedsos pribadi, e-wallet belum keisi sama sekali, males keluar alasannya pandemi, padahal itu duit juga butuh dicari.
 
-Here are some ideas to get you started:
+🌐 Od2 now a part of Oak Jetpack Project, learn how this happened ➡️ oakjetpack.wordpress.com/eksistensi-kami/
 
-- 🔭 I’m currently working on my own github account.
-- 🌱 I’m currently learning how to live.
-- 👯 I’m looking to collaborate on open source project.
-- 🤔 I’m looking for help with veritrans/paypal.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 Who I am? -
