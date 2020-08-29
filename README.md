@@ -4,4 +4,4 @@
 
 🌐 Od2 now a part of Oak Jetpack Project, learn how this happened ➡️ oakjetpack.wordpress.com/eksistensi-kami/
 
-- 🤔 Who I am? -
+- 🤔 Why we write a website with react/gatsby/nuxt.js if we can write it with wix? akwakwkawkw -
